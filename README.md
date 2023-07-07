@@ -15,4 +15,4 @@ Who purchased more- men or women in 2022?
 4. List top 10 states contributing to the sales?
 5. Relation between age and gender based on number of orders
 6. Which channel is contributing to maximum sales?
-7. I Highest selling category?, etc.
+7. Highest selling category?, etc.
